@@ -29,3 +29,4 @@ POST_URL='/r/subreddit/comments/randomString/post_name/'
 
 ```
 4. Run the test in **headed** mode with `npm run test` or in **headless** mode with `npm run test:headless`
+![run](https://github.com/josuecjmm/playwright-reddit-commenter/assets/22754139/3d1ed646-ffea-4ccb-ad3f-22511be4de19)
